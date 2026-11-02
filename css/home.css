@@ -22,7 +22,7 @@ nav{
 
     align-items: center;
     background-color: chocolate;
-    height: 50px;
+    height: 70px;
     width: 100%;
     padding: 20px;
 
@@ -54,7 +54,7 @@ nav{
 #main{
 
     height: 100vh;
-    padding-top: 50px;
+    padding-top: 70px;
     
     background-color: blanchedalmond;
 }
@@ -68,9 +68,15 @@ nav{
 
 #foods{
 
-    height: 70vh;
+    height: 100vh;
 
     background-color: blanchedalmond;
+
+    display: flex;
+    flex-wrap: wrap;
+
+    align-items: center;
+    justify-content: center;
 }
 
 
@@ -84,5 +90,40 @@ footer{
 
     height: 30vh;
     background-color: blueviolet;
+}
+
+
+
+
+
+.items{
+
+    height: 350px;
+    border: 1px solid black;
+    width: 400px;
+
+    margin: 10px;
+
+    border-radius: 20px;
+
+    box-shadow: 2px 2px 2px 2px;
+
+    background-color: lightcyan;
+
+
+
+}
+
+.imgss{
+
+    display: flex;
+    justify-self: center;
+
+
+    width: 100%;
+    height: 100% ;
+
+    border-radius: 20px;
+
 }
 
