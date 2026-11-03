@@ -1,10 +1,10 @@
 #  Craft & Crumb
 
-*A simple bakery website built as part of my web development learning journey.*
+*A simple restaurant website built as part of my web development learning journey.*
 
 ##  About the Project
 
-Craft & Crumb is a small bakery website project that I am building to practise and revise the concepts I learn in my Full Stack Development (FSD) classes.
+Craft & Crumb is a small restaurant website project that I am building to practise and revise the concepts I learn in my Full Stack Development (FSD) classes.
 
 The main idea is to create a website for a fictional restaurant while learning how different parts of web development work.
 
