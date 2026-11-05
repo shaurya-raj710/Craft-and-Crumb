@@ -1,0 +1,34 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#forms{
+
+    color: azure;
+    display: flex;
+
+    justify-content: center;
+    
+    
+    border: 2px solid white;
+
+    width: 400px;
+
+    height: 600px;
+
+    margin-right: 100px;
+
+    
+}
