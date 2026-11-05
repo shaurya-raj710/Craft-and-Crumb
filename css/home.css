@@ -176,11 +176,16 @@ nav{
     font-weight: 400;
     font-style: italic;
 
-    font-size: 18px;
+    font-size: 25px;
 
     color: yellow;
 
-    margin-top: 10px;
+    margin-top: 20px;
+
+
+    font-family: "Niconne", cursive;
+    font-weight: 400;
+    font-style: normal;
 
 
 }
@@ -191,9 +196,15 @@ nav{
     font-weight: 400;
     font-style: italic;
 
-    font-size: 18px;
+    font-size: 20px;
 
-    color: chartreuse;
+    margin-top: 10px;
+
+    color: yellow;
+
+    font-family: "Niconne", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .main-right{
@@ -316,6 +327,12 @@ nav{
         font-size: 40px;
 
         padding-top: 20px;
+
+        font-family: "Niconne", cursive;
+        font-weight: 400;
+        font-style: normal;
+
+        
     }
 
     .mgh2{
@@ -323,7 +340,11 @@ nav{
         padding-top: 60px;
         padding-right: 40px;
 
-        font-size: 20px;
+        font-size: 25px;
+
+        font-family: "Niconne", cursive;
+    font-weight: 400;
+    font-style: normal;
         
     }
 
@@ -334,6 +355,12 @@ nav{
         padding-right: 50px;
 
         text-align: center;
+
+        font-family: "Niconne", cursive;
+        font-weight: 400;
+        font-style: normal;
+
+        font-size: 20px;
     }
 
 
